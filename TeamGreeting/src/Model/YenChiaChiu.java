@@ -6,12 +6,10 @@ package Model;
 
 /**
  *
- * @author User PC
+ * @author USER
  */
-
-public class Main {
+public class YenChiaChiu {
     public static void main(String[] args) {
-        Chotipat.main(args);
-        YenChiaChiu.main(args);
-    }
+        System.out.println("Hello from Yen-Chia, Chiu!");
+    }   
 }
