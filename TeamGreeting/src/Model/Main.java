@@ -12,5 +12,6 @@ package Model;
 public class Main {
     public static void main(String[] args) {
         Chotipat.main(args);
+        YudanZhou.main(args);
     }
 }
