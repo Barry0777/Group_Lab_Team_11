@@ -6,13 +6,11 @@ package Model;
 
 /**
  *
- * @author User PC
+ * @author barryzhu
  */
-
-public class Main {
+public class JiayuZhu {
     public static void main(String[] args) {
-        Chotipat.main(args);
-        YenChiaChiu.main(args);
-        JiayuZhu.main(args);
-    }
+        System.out.println("Hello from Yen-Chia, Chiu!");
+    }   
+    
 }
