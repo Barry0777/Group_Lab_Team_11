@@ -14,5 +14,6 @@ public class Main {
         Chotipat.main(args);
         YenChiaChiu.main(args);
         JiayuZhu.main(args);
+        YudanZhou.main(args);
     }
 }
