@@ -13,6 +13,7 @@ public class Main {
     public static void main(String[] args) {
         Chotipat.main(args);
         YenChiaChiu.main(args);
-       JiayuZhu.main(args);
+        JiayuZhu.main(args);
+        YudanZhou.main(args);
     }
 }
